@@ -1,7 +1,7 @@
 using System.Diagnostics;
 
-namespace Handfield {
-    public class VoteOptions {
+namespace Handfield.ChooseForMe {
+    public class Program {
         static void Main(string[] args) {
             TextWriter errorWriter = Console.Error;
             
